@@ -18,7 +18,9 @@
 
     <modules>
       <module>cloud-common-postgresqldb</module>
+      <module>cloud-domain-postgresqldb</module>
       <module>cloud-web-api</module>
+
 
       
 

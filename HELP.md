@@ -2,8 +2,10 @@
 # тестовая, подготовительная версия
 
 
-future-01/add-cloud-common-postgresqld
 future-02/add-cloud-domain-postgresqld
+future-03/add-cloud-web-api
+
+
 
 # new
 com.kitchen
